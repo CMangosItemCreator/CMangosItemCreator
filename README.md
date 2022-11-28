@@ -1,6 +1,3 @@
-### TRAVIS BUILD STATUS
-![travis](https://travis-ci.com/CMangosItemCreator/CMangosItemCreator.svg?token=iwckJp4KDgYzLRzR4uyP&branch=master)
-
 ### Functionality
 - [x] Import to database
 - [x] Item.dbc Maker
