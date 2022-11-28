@@ -11,4 +11,4 @@
 - [x] DisplayID Finder
 - [x] Stats Generator
 
-![CMangos Item Creator 2.x](https://image.ibb.co/mgpK9U/Screenshot_1.jpg)
+![image](https://user-images.githubusercontent.com/7664922/204331940-8c3870cb-ff71-44db-94c4-ac8df8d0303e.png)
